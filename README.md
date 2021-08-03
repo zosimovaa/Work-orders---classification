@@ -2,7 +2,7 @@
 Обучение бинарного классификатора, разделяющего отчеты инженеров на требующие обработки оператором, и не требующие обработки оператором. Важным требованием явлется минимизация ошибки первого рода - недопустимо передавать на автоматическую обработку заявки, требующие принятия решения.
 
 # Ссылки
-Ноутбук с решением: [RNN_binary.ipynb](https://bitbucket.org/zosimovaa/01.-wo_classification/src/master/RNN_binary.ipynb?viewer=nbviewer)
+Ноутбук с решением: [RNN_binary.ipynb](https://bitbucket.org/zosimovaa/work-orders-classification/src/master/RNN_binary.ipynb?viewer=nbviewer)
 
 
 # Дополнительно
